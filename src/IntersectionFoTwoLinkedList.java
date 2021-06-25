@@ -1,5 +1,6 @@
 public class IntersectionFoTwoLinkedList {
     /**
+     * https://leetcode.com/problems/intersection-of-two-linked-lists/
      * Brute Force Solution
      * Definition for singly-linked list.
      * public class ListNode {
