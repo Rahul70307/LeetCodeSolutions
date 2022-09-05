@@ -1,3 +1,5 @@
+// Three Sum Unique triplet
+
 package Arrays;
 
 import java.util.ArrayList;
@@ -35,7 +37,7 @@ public class ThreeSumUniqueTriplete {
         return res;
 
     }
-    public static List<List<Integer>> threesum(int[] arr,  int target){
+    public static List<List<Integer>> threesum(int[] arr,int target){
         List<List<Integer>> res = new ArrayList<>();
         int n = arr.length;
         if(n<3){
