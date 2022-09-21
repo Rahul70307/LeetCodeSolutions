@@ -1,5 +1,4 @@
 package Arrays;
-
 public class SortArrayByParity {
     public int[] sortArrayByParity(int[] nums) {
 
